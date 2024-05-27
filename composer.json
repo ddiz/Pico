@@ -1,28 +1,15 @@
 {
-    "name": "picocms/pico",
+    "name": "Blog de Dinis",
     "type": "library",
-    "description": "Pico is a flat file CMS, this means there is no administration backend and database to deal with. You simply create .md files in the \"content\" folder and that becomes a page.",
-    "keywords": ["pico", "picocms", "pico-cms", "simple", "flat-file", "cms", "content-management", "website", "markdown-to-html", "php", "markdown", "yaml", "twig" ],
-    "homepage": "http://picocms.org/",
+    "description": "Blog personnel",
+    "keywords": ["Dinis", "passions", "informatique"],
+    "homepage": "https://laranjeira.fr/pico/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Gilbert Pellegrom",
-            "email": "gilbert@pellegrom.me",
-            "role": "Project Founder"
-        },
-        {
-            "name": "Daniel Rudolf",
-            "email": "picocms.org@daniel-rudolf.de",
-            "role": "Lead Developer"
-        },
-        {
-            "name": "The Pico Community",
-            "homepage": "http://picocms.org/"
-        },
-        {
-            "name": "Contributors",
-            "homepage": "https://github.com/picocms/Pico/graphs/contributors"
+            "name": "Dinis",
+            "email": "dinis@laranjeira.fr",
+            "homepage": "https://laranjeira.fr/pico/"
         }
     ],
     "support": {
